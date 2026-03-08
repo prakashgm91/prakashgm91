@@ -1,5 +1,5 @@
 #### Hello there, I am currently working on Machine learning for compuatational fluid dynamics.
-#### Building fast & cheap surrogate models aiding complex fluid dynamics problems using neural operators. 
+#### Building fast & cheap surrogate models for complex fluid dynamics problems using neural operators. 
 Aiming to publish my work and looking of new opportunities.
 
 📄 Featured projects - 
