@@ -15,8 +15,6 @@ I am currently working on **Machine Learning for Computational Fluid Dynamics (C
 
 #### PINN airfoil AoA optimization + faster optimization
 <img src="assets/airfoil_PINN/results_comparison_ratio_50_sg-uvp.png" width="300" alt="PINN result">
----
-
 ## Tech Stack
 - **CFD & Simulation:** Simcenter STAR-CCM+, Ansys Fluent, OpenFOAM  
 - **CAD / Meshing / Post:** ANSA, FreeCAD, Salome, ParaView  
