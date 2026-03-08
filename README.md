@@ -4,7 +4,7 @@ Aiming to publish my work and looking of new opportunities.
 
 📄 Featured projects - 
 
-                        GINO S-duct real-time prediction + DOE time reduction +                                             
+                        GINO S-duct real-time prediction + DOE time reduction +  ![My banner](assets/GINO_results/iteration1_pressure.png)                                           
                         GraphRAG-LLM automation + customised automation with data privacy + 
                         PINN airfoil AoA optimization + faster optimization + 
                         
