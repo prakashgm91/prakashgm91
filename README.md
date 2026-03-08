@@ -14,7 +14,7 @@ I am currently working on **Machine Learning for Computational Fluid Dynamics (C
 #### GraphRAG-LLM automation + customised automation with data privacy
 
 #### PINN airfoil AoA optimization + faster optimization
-<img src="assets/GINO_results/Results comparison Ratio=50.0_sg-uvp.png" width="300" alt="GINO pressure result">
+<img src="assets/airfoil_PINN/Results comparison Ratio=50.0_sg-uvp.png" width="300" alt="GINO pressure result">
 ---
 
 ## Tech Stack
