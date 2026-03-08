@@ -29,3 +29,7 @@ I am currently working on **Machine Learning for Computational Fluid Dynamics (C
 ## Contact
 - Email: gm.prakash00@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/prakash-govindan-b364731b3/
+
+
+<img src="assests/GINO_results/iteration1_pressure.png" width="700" alt="GINO pressure result">
+<img src="assests/GINO_results/iteration1_pressure.png" height="250" alt="GINO pressure result">
