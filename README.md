@@ -1,7 +1,7 @@
 ## Hello there
 I am currently working on **Machine Learning for Computational Fluid Dynamics (CFD)**.
 
-- Building fast & cost-effective surrogate models for complex fluid dynamics problems using **Neural Operators**
+- Building fast & cost-effective surrogate models that replicates complex fluid dynamics problems using **Neural Operators**
 - Aiming to publish my work and looking for new opportunities
 
 ---
