@@ -8,14 +8,14 @@ I am currently working on **Machine Learning for Computational Fluid Dynamics (C
 
 ## Featured projects
 
-### GINO – S-duct real-time prediction + DOE time reduction
+#### GINO – S-duct real-time prediction + DOE time reduction
 <p>
   <img src="./assets/GINO_results/iteration1_pressure.png" width="700" alt="GINO pressure result" />
 </p>
 
-### GraphRAG-LLM automation + customised automation with data privacy
+#### GraphRAG-LLM automation + customised automation with data privacy
 
-### PINN airfoil AoA optimization + faster optimization
+#### PINN airfoil AoA optimization + faster optimization
 
 ---
 
