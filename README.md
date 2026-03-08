@@ -2,11 +2,11 @@
 #### Building fast & cheap surrogate models for complex fluid dynamics problems using neural operators. 
 Aiming to publish my work and looking of new opportunities.
 
-## Featured projects - 
-### GINO – S-duct real-time prediction + DOE time reduction
+### Featured projects - 
+#### GINO – S-duct real-time prediction + DOE time reduction
 <img src="assets/GINO_results/iteration1_pressure.png" width="700"> 
-GraphRAG-LLM automation + customised automation with data privacy
-PINN airfoil AoA optimization + faster optimization
+#### GraphRAG-LLM automation + customised automation with data privacy
+#### PINN airfoil AoA optimization + faster optimization
                         
 ⚙️ Tech Stack - CFD & Simulation Solvers: Simcenter STAR-CCM+, Ansys Fluent, OpenFOAM 
 CAD, Meshing & Post-Processing: ANSA, FreeCAD, Salome, ParaView 
