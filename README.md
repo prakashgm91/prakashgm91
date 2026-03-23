@@ -9,7 +9,7 @@ I am currently working on **Machine Learning for Computational Fluid Dynamics (C
 ## Featured projects
 
 #### GINO – S-duct real-time prediction + DOE time reduction
-<img src="assets/GINO_results/iteration1_pressure.png" width="400" alt="GINO pressure result"><img src="assets/GINO_results/training_loss_plot_v5_0_HERO (4).png" width="300" alt="GINO pressure result">
+<img src="assets/GINO_results/ogrid_mesh_sduct.png" width="400" alt="GINO pressure result"><img src="assets/GINO_results/training_loss_plot_v6_0_CLEAN.png" width="300" alt="GINO pressure result"><img src="assets/GINO_results/final_iteration_velocity_comparison.png" width="300" alt="GINO pressure result"><img src="assets/GINO_results/final_iteration_pressure_comparison.png" width="300" alt="GINO pressure result"><img src="assets/GINO_results/GA convergence history.png" width="300" alt="GINO pressure result"><img src="assets/GINO_results/optimal pareto front.png" width="300" alt="GINO pressure result">
 
 #### GraphRAG-LLM automation + customised automation with data privacy
 
